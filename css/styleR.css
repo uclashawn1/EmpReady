@@ -12,6 +12,18 @@ body {
   background: url("../images/woodFloor.jpeg");
 }
 
+/* .main-section {
+  background: url("../images/wbOilPainting.jpeg");
+} */
+
+a{
+  color: black;
+}
+
+a:hover{
+  color: lime;
+}
+
 * {
   /* Box-model */
   box-sizing: border-box;

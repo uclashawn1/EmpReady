@@ -1,4 +1,4 @@
-@import url("/responsive/css/reset.css");
+@import url("/css/reset.css");
 
 body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
@@ -486,6 +486,7 @@ input[type=submit] {
 
   .work:nth-child(even) {
     margin-right: 0;
+    float: left;
   }
 
   .work:nth-child(odd) {
